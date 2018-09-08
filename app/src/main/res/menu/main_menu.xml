@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.optionmenu.MainActivity">
+
+    <item  android:id="@+id/search_menu"
+        android:title="Search" />
+
+    <item  android:id="@+id/logout_menu"
+        android:title="Logout"/>
+
+    <item
+        android:id="@+id/viewType"
+        android:icon="@drawable/ic_scroll_vertical"
+        android:title="View Type"
+        android:visible="true"
+        app:showAsAction="always" />
+
+
+</menu>

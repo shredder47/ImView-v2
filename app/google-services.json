@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "157999946217",
+    "firebase_url": "https://imview-d08b0.firebaseio.com",
+    "project_id": "imview-d08b0",
+    "storage_bucket": "imview-d08b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157999946217:android:3e05b34b86647488",
+        "android_client_info": {
+          "package_name": "com.example.shredder.imview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157999946217-qj5ojkgtmtjt3j4cpbsennvnueik6vu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shredder.imview",
+            "certificate_hash": "3ef539320057f5959b577bdb06cb8d1fab3f307f"
+          }
+        },
+        {
+          "client_id": "157999946217-0j5f82i7ng7qs4587088l1d6eaquh57g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7nDI8scR0a301iDkrl2yVSS9i2yDLbqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157999946217-0j5f82i7ng7qs4587088l1d6eaquh57g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
